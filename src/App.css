@@ -1,0 +1,49 @@
+
+input {
+    width: 100%;
+    padding: .6rem .6rem;
+    display: block;
+
+    border: 1px solid #E2E8F0;
+    border-radius: 2px;
+
+    margin-bottom: 1rem;
+}
+
+.rec-senha {
+    color: #0C2198;
+}
+
+.button-entrar {
+    width: 100%;
+    padding: .6rem;
+    margin-bottom: 1rem;
+    background-color: #0C2198;
+    color: #fff;
+    font-weight: bold;
+    border: none;
+    border-radius: 3px;
+}
+
+.image-container {
+    height: 100vh;
+    background-image: url(../img/fundo-principal.png);
+    background-size: cover;
+}
+
+.password-button {
+    margin-top: 8px;
+}
+
+.password-button.active {
+    color: blue;
+}
+
+.text-footer {
+    color: #475569;
+    font-size: .8rem;
+}
+
+.cadastro {
+    color: #0C2198;
+}
